@@ -1,8 +1,7 @@
 # Admin Dashboard Application Test Project // Credits: JavaScript Mastery YouTube (adrianhajdin)
 
 Sources {
-  https://github.com/adrianhajdin/project_syncfusion_dashboard
-  https://www.youtube.com/watch?v=jx5hdo50a2M&t=560s
+  https://github.com/adrianhajdin/project_syncfusion_dashboard, https://www.youtube.com/watch?v=jx5hdo50a2M&t=560s
 }
 
 ## Purpose/Goals
